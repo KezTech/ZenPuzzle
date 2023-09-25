@@ -1,4 +1,4 @@
-# Zen Puzzle: Where Competitive and Cognitive Gameplay Meet
+# Zen Puzzle: A Multiplayer and Cognitive Gaming Experience
 
 ## Table of Contents
 
