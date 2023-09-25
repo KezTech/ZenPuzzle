@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "895762984743",
+    "project_id": "zenpuzzle-67e35",
+    "storage_bucket": "zenpuzzle-67e35.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895762984743:android:c316582315cbd0f6cb8302",
+        "android_client_info": {
+          "package_name": "com.zen.zenpuzzle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "895762984743-bjd468t1uuaf23rqh1oo0o95r69pi3if.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3w89uyoOyuvhtRnevnt74WB-m-U-4cp8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "895762984743-bjd468t1uuaf23rqh1oo0o95r69pi3if.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "895762984743-j708od606st4d8u8be04f1nu1gvnrn9t.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nividata.mathmatrix"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
